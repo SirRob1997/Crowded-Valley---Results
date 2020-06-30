@@ -11,9 +11,9 @@
 
 For a full evaluation with all our plots and explanations, please look at the paper.
 
-<img src = "https://imgur.com/a/MMNzD6n" >
+<img src = "https://i.imgur.com/450YoFl.png" >
 
-<img src = "https://imgur.com/a/qmZPiFR" >
+<img src = "https://i.imgur.com/Yu96SyP.png" >
 
 ## Citation
 If you use our results, please consider citing:
