@@ -20,7 +20,7 @@ If you use our results, please consider citing:
 
 ```bibtex
 @misc{schmidt2020descending,
-    title={Descending through a Crowded Valley -- Benchmarking Deep Learning Optimizers},
+    title={Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers},
     author={Robin M. Schmidt and Frank Schneider and Philipp Hennig},
     year={2020},
     eprint={2007.01547},
