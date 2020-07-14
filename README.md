@@ -1,4 +1,4 @@
-# Descending through a Crowded Valley --- Benchmarking Deep Learning Optimizers
+# Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers
 
 [Robin M. Schmidt](https://scholar.google.de/citations?user=20vb63kAAAAJ&hl=de), [Frank Schneider](https://scholar.google.com/citations?user=znq-WkAAAAAJ&hl=en), and [Philipp Hennig](https://scholar.google.de/citations?user=UeG5w08AAAAJ&hl=en)
 
