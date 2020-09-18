@@ -1,5 +1,4 @@
 {
-{
     "testproblem": "cifar10_3c3d",
     "batch_size": 128,
     "num_epochs": 100,
