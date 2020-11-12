@@ -28,7 +28,7 @@ We keep a somewhat updated list of optimizers which can be used for Deep Learnin
 * AdaBatch, *2017* (https://arxiv.org/abs/1712.02029)
 * AdaBayes, *2018* (https://arxiv.org/abs/1807.07540v4)
 * AdaBayes-SS, *2018* (https://arxiv.org/abs/1807.07540v4)
-* AdaBlock, *2019* ("https://arxiv.org/abs/1905.10757)
+* AdaBlock, *2019* (https://arxiv.org/abs/1905.10757)
 * AdaBound, *2019* (https://arxiv.org/abs/1902.09843)
 * AdaComp, *2018* (https://arxiv.org/abs/1712.02679)
 * AdaFTRL, *2015* (https://arxiv.org/abs/1502.05744)
