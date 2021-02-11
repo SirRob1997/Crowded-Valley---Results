@@ -12,7 +12,7 @@ This repository provides the full log files of all our benchmarking results.
 They are organized into:
 
 - **Main results:** Comparison of fifteen popular deep learning optimizers on eight problems, using four different tuning budgets and four different learning rate schedules. The main results amount to more than 50,000 individual runs.
-- **Seed validation:** In order to test the stability of our benchmark, we re-tuned two optimizers (RMSProp and AdaDelta) on all problems a second time. The results of this evaluation are shown in Appendix D in our paper.
+- **Tuning validation:** In order to test the stability of our benchmark, we re-tuned two optimizers (RMSProp and AdaDelta) on all problems a second time. The results of this evaluation are shown in Appendix D in our paper.
 - **Seed robustness:** An optimizer's performance can be sensitive to the random seed. In this analysis, we performed an extensive grid search on the learning rate for SGD, using ten different seeds throughout. This identifies a “danger zone” of learning rates, that can be sensitive to the random seed. The full analysis can be found in Appendix C of our paper.
 
 Everyone is invited to use those results, for example, to evaluate the performance of newly developed optimizers or as training data for meta-learned optimizers.
