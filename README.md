@@ -126,6 +126,7 @@ Our paper lists over hundred optimizers that have been proposed for deep learnin
 - **PolyAdam** *(Orvieto et al., 2019)* [[UAI]](http://proceedings.mlr.press/v115/orvieto20a.html)
 - **Polyak Momentum** *(Polyak, 1964)* [[USSR Computational Mathematics and Mathematical Physics]](https://www.sciencedirect.com/science/article/abs/pii/0041555364901375)
 - **PowerSGD/PowerSGDM** *(Vogels et al., 2019)* [[NeurIPS]](https://proceedings.neurips.cc/paper/2019/hash/d9fbed9da256e344c1fa46bb46c34c5f-Abstract.html)
+- **Probabilistic Polyak** *(de Roos et al., 2021)* [[arXiv]](https://arxiv.org/abs/2102.10880)
 - **ProbLS** *(Mahsereci & Hennig, 2017)* [[JMLR]](https://jmlr.org/papers/v18/17-049.html)
 - **PSTorm** *(Xu, 2020)* [[arXiv]](http://arxiv.org/abs/2006.00425)
 - **QHAdam/QHM** *(Ma & Yarats, 2019)* [[ICLR]](https://openreview.net/forum?id=S1fUpoR5FQ)
