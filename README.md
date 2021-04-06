@@ -75,6 +75,7 @@ Our paper lists over hundred optimizers that have been proposed for deep learnin
 - **AvaGrad** *(Savarese et al., 2019)* [[arXiv]](http://arxiv.org/abs/1912.01823)
 - **BAdam** *(Salas et al., 2018)* [[arXiv]](http://arxiv.org/abs/1811.03679)
 - **BGAdam** *(Bai & Zhang, 2019)* [[arXiv]](http://arxiv.org/abs/1908.08015)
+- **BPGrad** *(Wu et al., 2021)* [[arXiv]](https://arxiv.org/abs/2104.01730)
 - **BRMSProp** *(Aitchison, 2020)* [[NeurIPS]](https://papers.nips.cc/paper/2020/hash/d33174c464c877fb03e77efdab4ae804-Abstract.html)
 - **BSGD** *(Hu et al., 2020)* [[NeurIPS]](https://papers.nips.cc/paper/2020/hash/1cdf14d1e3699d61d237cf76ce1c2dca-Abstract.html)
 - **C-ADAM** *(Tutunov et al., 2020)* [[arXiv]](http://arxiv.org/abs/2002.03755)
