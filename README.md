@@ -117,6 +117,7 @@ Our paper lists over hundred optimizers that have been proposed for deep learnin
 - **Nadam** *(Dozat, 2016)* [[ICLR]](https://openreview.net/forum?id=OM0jvwB8jIp57ZJjtNEZ)
 - **NAMSB/NAMSG** *(Chen et al., 2019)* [[arXiv]](http://arxiv.org/abs/1905.01422)
 - **ND-Adam** *(Zhang et al., 2017)* [[arXiv]](http://arxiv.org/abs/1709.04546)
+- **Nero** *(Liu et al., 2021)* [[arXiv]](https://arxiv.org/abs/2102.07227)
 - **Nesterov Accelerated Momentum** *(Nesterov, 1983)* [[Soviet Mathematics Doklady]](http://mpawankumar.info/teaching/cdt-big-data/nesterov83.pdf)
 - **Noisy Adam/Noisy K-FAC** *(Zhang et al., 2018)* [[ICML]](http://proceedings.mlr.press/v80/zhang18l.html)
 - **NosAdam** *(Huang et al., 2019)* [[IJCAI]](https://www.ijcai.org/Proceedings/2019/355)
