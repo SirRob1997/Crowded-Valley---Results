@@ -181,12 +181,12 @@ Our paper lists over hundred optimizers that have been proposed for deep learnin
 If you use our results, please consider citing:
 
 > [Robin M. Schmidt, Frank Schneider, Philipp Hennig<br/>
-> **Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers**<br/>
+> **Descending through a Crowded Valley -- Benchmarking Deep Learning Optimizers**<br/>
 > *arXiv 2007.01547*](http://arxiv.org/abs/2007.01547)
 
 ```bibtex
 @misc{schmidt2020descending,
-Title = {Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers},
+Title = {Descending through a Crowded Valley -- Benchmarking Deep Learning Optimizers},
 Author = {Robin M. Schmidt and Frank Schneider and Philipp Hennig},
 Year = {2020},
 Eprint = {2007.01547},
