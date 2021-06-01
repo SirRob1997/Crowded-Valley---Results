@@ -123,6 +123,7 @@ Our paper lists over hundred optimizers that have been proposed for deep learnin
 - **Nadam** *(Dozat, 2016)* [[ICLR]](https://openreview.net/forum?id=OM0jvwB8jIp57ZJjtNEZ)
 - **NAMSB/NAMSG** *(Chen et al., 2019)* [[arXiv]](http://arxiv.org/abs/1905.01422)
 - **ND-Adam** *(Zhang et al., 2017)* [[arXiv]](http://arxiv.org/abs/1709.04546)
+- **Nero** *(Liu et al., 2021)* [[arXiv]](https://arxiv.org/abs/2102.07227)
 - **Nesterov Accelerated Momentum** *(Nesterov, 1983)* [[Soviet Mathematics Doklady]](http://mpawankumar.info/teaching/cdt-big-data/nesterov83.pdf)
 - **Noisy Adam/Noisy K-FAC** *(Zhang et al., 2018)* [[ICML]](http://proceedings.mlr.press/v80/zhang18l.html)
 - **NosAdam** *(Huang et al., 2019)* [[IJCAI]](https://www.ijcai.org/Proceedings/2019/355)
@@ -147,6 +148,7 @@ Our paper lists over hundred optimizers that have been proposed for deep learnin
 - **SAdam** *(Wang et al., 2020)* [[ICLR]](https://openreview.net/forum?id=rye5YaEtPr)
 - **Sadam/SAMSGrad** *(Tong et al., 2019)* [[arXiv]](http://arxiv.org/abs/1908.00700)
 - **SALR** *(Yue et al., 2020)* [[arXiv]](http://arxiv.org/abs/2011.05348)
+- **SAM** *(Foret et al., 2021)* [[ICLR]](https://openreview.net/pdf?id=6Tm1mposlrM)
 - **SC-Adagrad/SC-RMSProp** *(Mukkamala & Hein, 2017)* [[ICML]](http://proceedings.mlr.press/v70/mukkamala17a.html)
 - **SDProp** *(Ida et al., 2017)* [[IJCAI]](https://www.ijcai.org/Proceedings/2017/267)
 - **SGD** *(Robbins & Monro, 1951)* [[Annals of Mathematical Statistics]](https://projecteuclid.org/euclid.aoms/1177729586)
@@ -185,12 +187,12 @@ Our paper lists over hundred optimizers that have been proposed for deep learnin
 If you use our results, please consider citing:
 
 > [Robin M. Schmidt, Frank Schneider, Philipp Hennig<br/>
-> **Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers**<br/>
+> **Descending through a Crowded Valley -- Benchmarking Deep Learning Optimizers**<br/>
 > *arXiv 2007.01547*](http://arxiv.org/abs/2007.01547)
 
 ```bibtex
 @misc{schmidt2020descending,
-Title = {Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers},
+Title = {Descending through a Crowded Valley -- Benchmarking Deep Learning Optimizers},
 Author = {Robin M. Schmidt and Frank Schneider and Philipp Hennig},
 Year = {2020},
 Eprint = {2007.01547},
