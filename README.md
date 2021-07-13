@@ -197,13 +197,19 @@ If you use our results, please consider citing:
 > *arXiv 2007.01547*](http://arxiv.org/abs/2007.01547)
 
 ```bibtex
-@misc{schmidt2020descending,
-Title = {Descending through a Crowded Valley -- Benchmarking Deep Learning Optimizers},
-Author = {Robin M. Schmidt and Frank Schneider and Philipp Hennig},
-Year = {2020},
-Eprint = {2007.01547},
-ArchivePrefix = {arXiv},
-PrimaryClass = {cs.LG}
+@InProceedings{pmlr-v139-schmidt21a,
+  title = 	 {Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers},
+  author =       {Schmidt, Robin M and Schneider, Frank and Hennig, Philipp},
+  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
+  pages = 	 {9367--9376},
+  year = 	 {2021},
+  editor = 	 {Meila, Marina and Zhang, Tong},
+  volume = 	 {139},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {18--24 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v139/schmidt21a/schmidt21a.pdf},
+  url = 	 {http://proceedings.mlr.press/v139/schmidt21a.html}
 }
 ```
 
