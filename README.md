@@ -2,7 +2,7 @@
 
 [Robin M. Schmidt](https://scholar.google.de/citations?user=20vb63kAAAAJ&hl=de), [Frank Schneider](https://scholar.google.com/citations?user=znq-WkAAAAAJ&hl=en), and [Philipp Hennig](https://scholar.google.de/citations?user=UeG5w08AAAAJ&hl=en)
 
-**Paper**: [[arXiv]](http://arxiv.org/abs/2007.01547)
+**Paper**: [[ICML 2021]](http://proceedings.mlr.press/v139/schmidt21a)
 
 > **Abstract:** *Choosing the optimizer is considered to be among the most crucial design decisions in deep learning, and it is not an easy one. The growing literature now lists hundreds of optimization methods. In the absence of clear theoretical guidance and conclusive empirical evidence, the decision is often made based on anecdotes. In this work, we aim to replace these anecdotes, if not with a conclusive ranking, then at least with evidence-backed heuristics. To do so, we perform an extensive, standardized benchmark of fifteen particularly popular deep learning optimizers while giving a concise overview of the wide range of possible choices. Analyzing more than 50,000 individual runs, we contribute the following three points: (i) Optimizer performance varies greatly across tasks. (ii) We observe that evaluating multiple optimizers with default parameters works approximately as well as tuning the hyperparameters of a single, fixed optimizer. (iii) While we cannot discern an optimization method clearly dominating across all tested tasks, we identify a significantly reduced subset of specific optimizers and parameter choices that generally lead to competitive results in our experiments: Adam remains a strong contender, with newer methods failing to significantly and consistently outperform it. Our open-sourced results are available as challenging and well-tuned baselines for more meaningful evaluations of novel optimization methods without requiring any further computational efforts.*
 
@@ -193,8 +193,8 @@ Our paper lists over hundred optimizers that have been proposed for deep learnin
 If you use our results, please consider citing:
 
 > [Robin M. Schmidt, Frank Schneider, Philipp Hennig<br/>
-> **Descending through a Crowded Valley -- Benchmarking Deep Learning Optimizers**<br/>
-> *arXiv 2007.01547*](http://arxiv.org/abs/2007.01547)
+> **Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers**<br/>
+> *ICML 2021*](http://proceedings.mlr.press/v139/schmidt21a)
 
 ```bibtex
 @InProceedings{pmlr-v139-schmidt21a,
